@@ -1,7 +1,7 @@
 {
   "schema": "momentum.seedance.batch.v1",
   "batch_id": "e07ce81b47738155b27e",
-  "status": "pending",
+  "status": "imported",
   "source": "Momentum Sniper",
   "source_file": "snipe-Kevin-2026-08-03.csv",
   "preset": "Kevin-2026-08",
@@ -327,5 +327,6 @@
         "scene_prompt": "put the product from the image on a clean modern surface that fits the product, natural lighting"
       }
     }
-  ]
+  ],
+  "imported_at": "2026-08-03T20:08:51.080420Z"
 }
