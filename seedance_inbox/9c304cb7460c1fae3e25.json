@@ -1,0 +1,128 @@
+{
+  "schema": "momentum.seedance.batch.v1",
+  "batch_id": "9c304cb7460c1fae3e25",
+  "status": "pending",
+  "source": "Momentum Sniper",
+  "source_file": "snipe-Kevin-2026-08-07_13-44-51.csv",
+  "preset": "Kevin",
+  "created_at": "2026-08-07T14:16:44.186969+00:00",
+  "product_count": 5,
+  "transfer_mode": "tiktok_link_rescrape",
+  "products": [
+    {
+      "name": "ARZOPA Z1FC, 16.1'' 144Hz Portable Gaming Monitor, 100% sRGB, 1080P FHD, Kickstand Portable Monitor, External Second Screen for PS5 Xbox Laptop PC Switch",
+      "source_url": "https://shop.tiktok.com/view/product/1729405471069737262",
+      "caption": "Adding the ARZOPA Z1FC to my cart before I change my mind. 😱😭",
+      "scene_prompt": "put the product from the image on a clean modern surface that fits the product, natural lighting",
+      "sniper_meta": {
+        "product": "ARZOPA Z1FC, 16.1'' 144Hz Portable Gaming Monitor, 100% sRGB, 1080P FHD, Kickstand Portable Monitor, External Second Screen for PS5 Xbox Laptop PC Switch",
+        "image_file": "arzopa-z1fc-16-1-144hz-portable-gaming-m-1729405471069737262.jpg",
+        "image_url": "https://img.kalocdn.com/tiktok.product.images/tos-useast5-i-omjb5zjo8w-tx/efa9a79b91224c0d80df2c2ef2fd9ca1.png",
+        "image_candidates_json": "[\"https://img.kalocdn.com/tiktok.product.images/tos-useast5-i-omjb5zjo8w-tx/efa9a79b91224c0d80df2c2ef2fd9ca1.png\", \"https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/efa9a79b91224c0d80df2c2ef2fd9ca1~tplv-fhlh96nyum-crop-webp:2000:2000.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839\"]",
+        "avg_price": 99.99,
+        "revenue_7d": 15100.0,
+        "growth_pct": 185.8,
+        "commission_pct": 8.0,
+        "per_sale_$": 8.0,
+        "creators": 26.0,
+        "ads_top10": 10,
+        "tiktok_link": "https://shop.tiktok.com/view/product/1729405471069737262",
+        "caption": "Adding the ARZOPA Z1FC to my cart before I change my mind. 😱😭",
+        "scene_prompt": "put the product from the image on a clean modern surface that fits the product, natural lighting"
+      },
+      "transfer_mode": "tiktok_link_rescrape"
+    },
+    {
+      "name": "ASUS Adol OWS-G206 Bluetooth Headphones With 8MP EIS Stabilized Camera, First-person perspective",
+      "source_url": "https://shop.tiktok.com/view/product/1732518232179577001",
+      "caption": "Consider this your reminder to grab the ASUS Adol OWS-G206 Bluetooth Headphones With 8MP you keep eyeing. 😱😭",
+      "scene_prompt": "put the product from the image on a clean modern surface that fits the product, natural lighting",
+      "sniper_meta": {
+        "product": "ASUS Adol OWS-G206 Bluetooth Headphones With 8MP EIS Stabilized Camera, First-person perspective",
+        "image_file": "asus-adol-ows-g206-bluetooth-headphones--1732518232179577001.jpg",
+        "image_url": "https://img.kalocdn.com/tiktok.product.images/tos-useast5-i-omjb5zjo8w-tx/acf22988a0ca4ff685939497d20f25ec.png",
+        "image_candidates_json": "[\"https://img.kalocdn.com/tiktok.product.images/tos-useast5-i-omjb5zjo8w-tx/acf22988a0ca4ff685939497d20f25ec.png\"]",
+        "avg_price": 67.48,
+        "revenue_7d": 25300.0,
+        "growth_pct": 464.4,
+        "commission_pct": 10.0,
+        "per_sale_$": 6.75,
+        "creators": 23.0,
+        "ads_top10": 10,
+        "tiktok_link": "https://shop.tiktok.com/view/product/1732518232179577001",
+        "caption": "Consider this your reminder to grab the ASUS Adol OWS-G206 Bluetooth Headphones With 8MP you keep eyeing. 😱😭",
+        "scene_prompt": "put the product from the image on a clean modern surface that fits the product, natural lighting"
+      },
+      "transfer_mode": "tiktok_link_rescrape"
+    },
+    {
+      "name": "FEPPO Mattress Vacuum Cleaner with UV-C light,for Dust Mites Removal, Bed Vacuum with Powerful Suction for Deep Cleaning of Beds, Sofas, and Upholstered Furnitu",
+      "source_url": "https://shop.tiktok.com/view/product/1729921786993480417",
+      "caption": "Stop overthinking the FEPPO Mattress Vacuum Cleaner with UV-C light and just tap the cart. 😱😭",
+      "scene_prompt": "put the product from the image on a clean modern surface that fits the product, natural lighting",
+      "sniper_meta": {
+        "product": "FEPPO Mattress Vacuum Cleaner with UV-C light,for Dust Mites Removal, Bed Vacuum with Powerful Suction for Deep Cleaning of Beds, Sofas, and Upholstered Furnitu",
+        "image_file": "feppo-mattress-vacuum-cleaner-with-uv-c--1729921786993480417.jpg",
+        "image_url": "https://img.kalocdn.com/tiktok.product.images/tos-useast5-i-omjb5zjo8w-tx/152b912d41414cc1812827cb1fa0bf07.png",
+        "image_candidates_json": "[\"https://img.kalocdn.com/tiktok.product.images/tos-useast5-i-omjb5zjo8w-tx/152b912d41414cc1812827cb1fa0bf07.png\", \"https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/152b912d41414cc1812827cb1fa0bf07~tplv-fhlh96nyum-crop-webp:1600:1600.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839\"]",
+        "avg_price": 44.99,
+        "revenue_7d": 18270.0,
+        "growth_pct": 142.6,
+        "commission_pct": 8.0,
+        "per_sale_$": 3.6,
+        "creators": 44.0,
+        "ads_top10": 8,
+        "tiktok_link": "https://shop.tiktok.com/view/product/1729921786993480417",
+        "caption": "Stop overthinking the FEPPO Mattress Vacuum Cleaner with UV-C light and just tap the cart. 😱😭",
+        "scene_prompt": "put the product from the image on a clean modern surface that fits the product, natural lighting"
+      },
+      "transfer_mode": "tiktok_link_rescrape"
+    },
+    {
+      "name": "BASED Ultimate Skin Set | Under Eye Elixir, Daily Cleanser, Daily Moisturizer, Skin Revival Spray, White Face Towel | Simple, Effective, Based.",
+      "source_url": "https://shop.tiktok.com/view/product/1731944290169033014",
+      "caption": "I am so sorry if you already grabbed an BASED Ultimate Skin Set, because the discount is huge today. 😱😭",
+      "scene_prompt": "put the product from the image on a clean modern surface that fits the product, natural lighting",
+      "sniper_meta": {
+        "product": "BASED Ultimate Skin Set | Under Eye Elixir, Daily Cleanser, Daily Moisturizer, Skin Revival Spray, White Face Towel | Simple, Effective, Based.",
+        "image_file": "based-ultimate-skin-set-under-eye-elixir-1731944290169033014.jpg",
+        "image_url": "https://img.kalocdn.com/tiktok.product.images/tos-useast5-i-omjb5zjo8w-tx/1bb8c91fb711432b951539b41c38d9e3.png",
+        "image_candidates_json": "[\"https://img.kalocdn.com/tiktok.product.images/tos-useast5-i-omjb5zjo8w-tx/1bb8c91fb711432b951539b41c38d9e3.png\", \"https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/1bb8c91fb711432b951539b41c38d9e3~tplv-fhlh96nyum-crop-webp:1500:1500.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839\"]",
+        "avg_price": 44.65,
+        "revenue_7d": 15630.0,
+        "growth_pct": 66.0,
+        "commission_pct": 10.0,
+        "per_sale_$": 4.46,
+        "creators": 62.0,
+        "ads_top10": 9,
+        "tiktok_link": "https://shop.tiktok.com/view/product/1731944290169033014",
+        "caption": "I am so sorry if you already grabbed an BASED Ultimate Skin Set, because the discount is huge today. 😱😭",
+        "scene_prompt": "put the product from the image on a clean modern surface that fits the product, natural lighting"
+      },
+      "transfer_mode": "tiktok_link_rescrape"
+    },
+    {
+      "name": "Frost Buddy Halloween",
+      "source_url": "https://shop.tiktok.com/view/product/1732471007461348234",
+      "caption": "The Frost Buddy Halloween everyone has been asking me about is finally back. 😱😭",
+      "scene_prompt": "put the product from the image on a clean modern surface that fits the product, natural lighting",
+      "sniper_meta": {
+        "product": "Frost Buddy Halloween",
+        "image_file": "frost-buddy-halloween-1732471007461348234.jpg",
+        "image_url": "https://img.kalocdn.com/tiktok.product.images/tos-useast5-i-omjb5zjo8w-tx/898903c20dcc46d4a9e4b5c9492aedc4.png",
+        "image_candidates_json": "[\"https://img.kalocdn.com/tiktok.product.images/tos-useast5-i-omjb5zjo8w-tx/898903c20dcc46d4a9e4b5c9492aedc4.png\", \"https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/898903c20dcc46d4a9e4b5c9492aedc4~tplv-fhlh96nyum-crop-webp:2000:2000.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=e1be8f53&idc=useast5&from=2378011839\"]",
+        "avg_price": 24.29,
+        "revenue_7d": 20160.0,
+        "growth_pct": 999.9,
+        "commission_pct": 15.0,
+        "per_sale_$": 3.64,
+        "creators": 95.0,
+        "ads_top10": 10,
+        "tiktok_link": "https://shop.tiktok.com/view/product/1732471007461348234",
+        "caption": "The Frost Buddy Halloween everyone has been asking me about is finally back. 😱😭",
+        "scene_prompt": "put the product from the image on a clean modern surface that fits the product, natural lighting"
+      },
+      "transfer_mode": "tiktok_link_rescrape"
+    }
+  ]
+}
