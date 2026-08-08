@@ -1,0 +1,82 @@
+{
+  "schema": "momentum.seedance.batch.v1",
+  "batch_id": "a51385fa50cf2d246e8d",
+  "status": "pending",
+  "source": "Momentum Sniper",
+  "source_file": "snipe-Kevin-2026-08-08_13-32-53.csv",
+  "preset": "Kevin",
+  "created_at": "2026-08-08T13:48:17.454522+00:00",
+  "product_count": 3,
+  "transfer_mode": "tiktok_link_rescrape",
+  "products": [
+    {
+      "name": "Clarks Collection Loafers -Westlynn Ayla",
+      "source_url": "https://shop.tiktok.com/view/product/1731966485847774151",
+      "caption": "I can not believe how good the Clarks Collection Loafers -Westlynn Ayla is for the price. 😱😭",
+      "scene_prompt": "put the product from the image on a clean modern surface that fits the product, natural lighting",
+      "sniper_meta": {
+        "product": "Clarks Collection Loafers -Westlynn Ayla",
+        "image_file": "clarks-collection-loafers-westlynn-ayla-1731966485847774151.jpg",
+        "image_url": "https://img.kalocdn.com/tiktok.product.images/tos-useast5-i-omjb5zjo8w-tx/b386584621e24c93b2f8b2024bf215ff.png",
+        "image_candidates_json": "[\"https://img.kalocdn.com/tiktok.product.images/tos-useast5-i-omjb5zjo8w-tx/b386584621e24c93b2f8b2024bf215ff.png\", \"https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/b386584621e24c93b2f8b2024bf215ff~tplv-fhlh96nyum-crop-webp:2000:1778.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839\"]",
+        "avg_price": 64.98,
+        "revenue_7d": 18190.0,
+        "growth_pct": 999.9,
+        "commission_pct": 18.0,
+        "per_sale_$": 11.7,
+        "creators": 11.0,
+        "ads_top10": 7,
+        "tiktok_link": "https://shop.tiktok.com/view/product/1731966485847774151",
+        "caption": "I can not believe how good the Clarks Collection Loafers -Westlynn Ayla is for the price. 😱😭",
+        "scene_prompt": "put the product from the image on a clean modern surface that fits the product, natural lighting"
+      },
+      "transfer_mode": "tiktok_link_rescrape"
+    },
+    {
+      "name": "Drayvorx 2-in-1 Cordless Electric Grill Brush & Spin Scrubber - Barbecue Utensils with Stainless Steel Wire & Pad Heads, 3-Speed Motor, High-Torque for Outdoor",
+      "source_url": "https://shop.tiktok.com/view/product/1731471640799711998",
+      "caption": "POV: you found the Drayvorx 2-in-1 Cordless Electric Grill Brush &  before everyone else did. 😱😭",
+      "scene_prompt": "put the product from the image on a clean modern surface that fits the product, natural lighting",
+      "sniper_meta": {
+        "product": "Drayvorx 2-in-1 Cordless Electric Grill Brush & Spin Scrubber - Barbecue Utensils with Stainless Steel Wire & Pad Heads, 3-Speed Motor, High-Torque for Outdoor ",
+        "image_file": "drayvorx-2-in-1-cordless-electric-grill--1731471640799711998.jpg",
+        "image_url": "https://img.kalocdn.com/tiktok.product.images/tos-useast5-i-omjb5zjo8w-tx/1e58481f53e04629a41941961ad0dba9.png",
+        "image_candidates_json": "[\"https://img.kalocdn.com/tiktok.product.images/tos-useast5-i-omjb5zjo8w-tx/1e58481f53e04629a41941961ad0dba9.png\", \"https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/1e58481f53e04629a41941961ad0dba9~tplv-fhlh96nyum-crop-webp:1600:1600.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839\"]",
+        "avg_price": 59.99,
+        "revenue_7d": 16500.0,
+        "growth_pct": 141.4,
+        "commission_pct": 8.0,
+        "per_sale_$": 4.8,
+        "creators": 44.0,
+        "ads_top10": 5,
+        "tiktok_link": "https://shop.tiktok.com/view/product/1731471640799711998",
+        "caption": "POV: you found the Drayvorx 2-in-1 Cordless Electric Grill Brush &  before everyone else did. 😱😭",
+        "scene_prompt": "put the product from the image on a clean modern surface that fits the product, natural lighting"
+      },
+      "transfer_mode": "tiktok_link_rescrape"
+    },
+    {
+      "name": "Halara UltraSculpt High Waisted Tummy Control Pocket Shaping Training Leggings",
+      "source_url": "https://shop.tiktok.com/view/product/1730356078947897636",
+      "caption": "Stop overthinking the Halara UltraSculpt High Waisted Tummy Control Po and just tap the cart. 😱😭",
+      "scene_prompt": "put the product from the image on a clean modern surface that fits the product, natural lighting",
+      "sniper_meta": {
+        "product": "Halara UltraSculpt High Waisted Tummy Control Pocket Shaping Training Leggings",
+        "image_file": "halara-ultrasculpt-high-waisted-tummy-co-1730356078947897636.jpg",
+        "image_url": "https://img.kalocdn.com/tiktok.product.images/tos-useast5-i-omjb5zjo8w-tx/4b022ab75e644df2932f858261882425.png",
+        "image_candidates_json": "[\"https://img.kalocdn.com/tiktok.product.images/tos-useast5-i-omjb5zjo8w-tx/4b022ab75e644df2932f858261882425.png\", \"https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/4b022ab75e644df2932f858261882425~tplv-fhlh96nyum-crop-webp:2800:2800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839\"]",
+        "avg_price": 27.95,
+        "revenue_7d": 19120.0,
+        "growth_pct": 109.4,
+        "commission_pct": 10.0,
+        "per_sale_$": 2.79,
+        "creators": 89.0,
+        "ads_top10": 9,
+        "tiktok_link": "https://shop.tiktok.com/view/product/1730356078947897636",
+        "caption": "Stop overthinking the Halara UltraSculpt High Waisted Tummy Control Po and just tap the cart. 😱😭",
+        "scene_prompt": "put the product from the image on a clean modern surface that fits the product, natural lighting"
+      },
+      "transfer_mode": "tiktok_link_rescrape"
+    }
+  ]
+}
