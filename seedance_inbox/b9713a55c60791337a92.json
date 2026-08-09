@@ -1,7 +1,7 @@
 {
   "schema": "momentum.seedance.batch.v1",
   "batch_id": "b9713a55c60791337a92",
-  "status": "pending",
+  "status": "imported",
   "source": "Momentum Sniper",
   "source_file": "snipe-Kevin-2026-08-09_13-52-49.csv",
   "preset": "Kevin",
@@ -170,5 +170,6 @@
       },
       "transfer_mode": "tiktok_link_rescrape"
     }
-  ]
+  ],
+  "imported_at": "2026-08-09T13:56:25.216058Z"
 }
