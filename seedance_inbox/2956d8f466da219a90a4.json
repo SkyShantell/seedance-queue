@@ -1,0 +1,105 @@
+{
+  "schema": "momentum.seedance.batch.v1",
+  "batch_id": "2956d8f466da219a90a4",
+  "status": "pending",
+  "source": "Momentum Sniper",
+  "source_file": "snipe-Kevin-2026-08-10_15-11-58.csv",
+  "preset": "Kevin",
+  "created_at": "2026-08-10T15:19:49.234853+00:00",
+  "product_count": 4,
+  "transfer_mode": "tiktok_link_rescrape",
+  "products": [
+    {
+      "name": "BISSELL® CrossWave® Edge All-in-One Floor Cleaner, Vacuums & Mops Simultaneously, Pet Hair & Hard Floors, ZeroGap™ Baseboard Cleaning, Corded, 4111A",
+      "source_url": "https://shop.tiktok.com/view/product/1732418732277732201",
+      "caption": "Do NOT scroll past the BISSELL® CrossWave® Edge All-in-One Floor Cleane if it has been sitting in your cart. 😱😭",
+      "scene_prompt": "put the product from the image on a clean modern surface that fits the product, natural lighting",
+      "sniper_meta": {
+        "product": "BISSELL® CrossWave® Edge All-in-One Floor Cleaner, Vacuums & Mops Simultaneously, Pet Hair & Hard Floors, ZeroGap™ Baseboard Cleaning, Corded, 4111A",
+        "image_file": "bissell-crosswave-edge-all-in-one-floor--1732418732277732201.jpg",
+        "image_url": "https://img.kalocdn.com/tiktok.product.images/tos-useast5-i-omjb5zjo8w-tx/e8c4ba68ca6742b4a3267d38c4904f6b.png",
+        "image_candidates_json": "[\"https://img.kalocdn.com/tiktok.product.images/tos-useast5-i-omjb5zjo8w-tx/e8c4ba68ca6742b4a3267d38c4904f6b.png\", \"https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/e8c4ba68ca6742b4a3267d38c4904f6b~tplv-fhlh96nyum-crop-webp:1000:1000.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=e1be8f53&idc=useast5&from=2378011839\"]",
+        "avg_price": 179.39,
+        "revenue_7d": 114090.0,
+        "growth_pct": 257.6,
+        "commission_pct": 10.0,
+        "per_sale_$": 17.94,
+        "creators": 88.0,
+        "ads_top10": 10,
+        "tiktok_link": "https://shop.tiktok.com/view/product/1732418732277732201",
+        "caption": "Do NOT scroll past the BISSELL® CrossWave® Edge All-in-One Floor Cleane if it has been sitting in your cart. 😱😭",
+        "scene_prompt": "put the product from the image on a clean modern surface that fits the product, natural lighting"
+      },
+      "transfer_mode": "tiktok_link_rescrape"
+    },
+    {
+      "name": "2-Pack AMZPURE Men's Stretch Slim Muscle Fit Short Sleeve Dress Shirts Casual Button-Down Style Perfect Menswear for Dad,back to school,back to school shopping",
+      "source_url": "https://shop.tiktok.com/view/product/1732209806668828999",
+      "caption": "Stop overthinking the 2-Pack AMZPURE Men's Stretch Slim Muscle Fit Sho and just tap the cart. 😱😭",
+      "scene_prompt": "put the product from the image on a clean modern surface that fits the product, natural lighting",
+      "sniper_meta": {
+        "product": "2-Pack AMZPURE Men's Stretch Slim Muscle Fit Short Sleeve Dress Shirts Casual Button-Down Style Perfect Menswear for Dad,back to school,back to school shopping ",
+        "image_file": "2-pack-amzpure-men-s-stretch-slim-muscle-1732209806668828999.jpg",
+        "image_url": "https://img.kalocdn.com/tiktok.product.images/tos-useast5-i-omjb5zjo8w-tx/6c6525266618418a9cbb2c7b127eec56.png",
+        "image_candidates_json": "[\"https://img.kalocdn.com/tiktok.product.images/tos-useast5-i-omjb5zjo8w-tx/6c6525266618418a9cbb2c7b127eec56.png\", \"https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/6c6525266618418a9cbb2c7b127eec56~tplv-fhlh96nyum-crop-webp:1024:1024.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839\"]",
+        "avg_price": 42.99,
+        "revenue_7d": 15650.0,
+        "growth_pct": 181.7,
+        "commission_pct": 10.0,
+        "per_sale_$": 4.3,
+        "creators": 56.0,
+        "ads_top10": 10,
+        "tiktok_link": "https://shop.tiktok.com/view/product/1732209806668828999",
+        "caption": "Stop overthinking the 2-Pack AMZPURE Men's Stretch Slim Muscle Fit Sho and just tap the cart. 😱😭",
+        "scene_prompt": "put the product from the image on a clean modern surface that fits the product, natural lighting"
+      },
+      "transfer_mode": "tiktok_link_rescrape"
+    },
+    {
+      "name": "Drayvorx 2-in-1 Cordless Electric Grill Brush & Spin Scrubber - Barbecue Utensils with Stainless Steel Wire & Pad Heads, 3-Speed Motor, High-Torque for Outdoor",
+      "source_url": "https://shop.tiktok.com/view/product/1731471640799711998",
+      "caption": "Do NOT scroll past the Drayvorx 2-in-1 Cordless Electric Grill Brush &  if it has been sitting in your cart. 😱😭",
+      "scene_prompt": "put the product from the image on a clean modern surface that fits the product, natural lighting",
+      "sniper_meta": {
+        "product": "Drayvorx 2-in-1 Cordless Electric Grill Brush & Spin Scrubber - Barbecue Utensils with Stainless Steel Wire & Pad Heads, 3-Speed Motor, High-Torque for Outdoor ",
+        "image_file": "drayvorx-2-in-1-cordless-electric-grill--1731471640799711998.jpg",
+        "image_url": "https://img.kalocdn.com/tiktok.product.images/tos-useast5-i-omjb5zjo8w-tx/1e58481f53e04629a41941961ad0dba9.png",
+        "image_candidates_json": "[\"https://img.kalocdn.com/tiktok.product.images/tos-useast5-i-omjb5zjo8w-tx/1e58481f53e04629a41941961ad0dba9.png\", \"https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/1e58481f53e04629a41941961ad0dba9~tplv-fhlh96nyum-crop-webp:1600:1600.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839\"]",
+        "avg_price": 27.99,
+        "revenue_7d": 35410.0,
+        "growth_pct": 258.6,
+        "commission_pct": 8.0,
+        "per_sale_$": 2.24,
+        "creators": 46.0,
+        "ads_top10": 6,
+        "tiktok_link": "https://shop.tiktok.com/view/product/1731471640799711998",
+        "caption": "Do NOT scroll past the Drayvorx 2-in-1 Cordless Electric Grill Brush &  if it has been sitting in your cart. 😱😭",
+        "scene_prompt": "put the product from the image on a clean modern surface that fits the product, natural lighting"
+      },
+      "transfer_mode": "tiktok_link_rescrape"
+    },
+    {
+      "name": "[ELROEL Official Store] ELROEL Blanc Cover Cream Stick V White - Korean Color-Changing Foundation Stick with Volufiline - Medium to Full Coverage Dewy Finish Ba",
+      "source_url": "https://shop.tiktok.com/view/product/1732244344172417451",
+      "caption": "I am so sorry if you already grabbed an ELROEL Blanc Cover Cream Stick V White - Korean , because the discount is huge today. 😱😭",
+      "scene_prompt": "put the product from the image on a clean modern surface that fits the product, natural lighting",
+      "sniper_meta": {
+        "product": "[ELROEL Official Store] ELROEL Blanc Cover Cream Stick V White - Korean Color-Changing Foundation Stick with Volufiline - Medium to Full Coverage Dewy Finish Ba",
+        "image_file": "elroel-official-store-elroel-blanc-cover-1732244344172417451.jpg",
+        "image_url": "https://img.kalocdn.com/tiktok.product.images/tos-useast5-i-omjb5zjo8w-tx/37060cbe26a949cb9be1eb6a83a3e939.png",
+        "image_candidates_json": "[\"https://img.kalocdn.com/tiktok.product.images/tos-useast5-i-omjb5zjo8w-tx/37060cbe26a949cb9be1eb6a83a3e939.png\", \"https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/37060cbe26a949cb9be1eb6a83a3e939~tplv-fhlh96nyum-crop-webp:1000:1000.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839\"]",
+        "avg_price": 26.08,
+        "revenue_7d": 24410.0,
+        "growth_pct": 362.9,
+        "commission_pct": 15.0,
+        "per_sale_$": 3.91,
+        "creators": 70.0,
+        "ads_top10": 9,
+        "tiktok_link": "https://shop.tiktok.com/view/product/1732244344172417451",
+        "caption": "I am so sorry if you already grabbed an ELROEL Blanc Cover Cream Stick V White - Korean , because the discount is huge today. 😱😭",
+        "scene_prompt": "put the product from the image on a clean modern surface that fits the product, natural lighting"
+      },
+      "transfer_mode": "tiktok_link_rescrape"
+    }
+  ]
+}
