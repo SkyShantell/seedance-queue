@@ -1,7 +1,7 @@
 {
   "schema": "momentum.seedance.batch.v1",
   "batch_id": "16e5b60a71e040d7204a",
-  "status": "pending",
+  "status": "imported",
   "source": "Momentum Sniper",
   "source_file": "snipe-HighTicket-2026-08-15_01-55-26.csv",
   "preset": "HighTicket",
@@ -239,5 +239,6 @@
       },
       "transfer_mode": "tiktok_link_rescrape"
     }
-  ]
+  ],
+  "imported_at": "2026-08-15T02:01:29.591283Z"
 }
